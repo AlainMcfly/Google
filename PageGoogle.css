@@ -1,0 +1,84 @@
+
+header 
+{
+   display: flex; 
+   justify-content: flex-end;
+}
+.div_gmail 
+{
+   margin: 20px;
+}  
+
+.div_images 
+{
+   margin: 20px;
+    
+}  
+     
+.d_logo {
+    display: flex;
+    
+    justify-content: center;
+    
+    
+}
+
+.div_logo {
+    display: flex;
+   
+    margin-top: 70px;
+    margin-bottom: 40px;
+    
+}
+
+.d_rech {
+   display: flex;
+    
+    justify-content: center;
+   margin-bottom: 10px;
+}
+
+    
+
+
+
+.B_button {
+    
+    display: flex;
+   
+    justify-content: center;
+    
+    
+}
+
+.d_button {
+    
+    display: flex;
+   
+    margin-right: 10px;
+}
+
+.d_bouton {
+    display: flex;
+   
+    margin-left: 10px;
+}
+    
+
+    
+.d_info {
+    
+    display: flex;
+    
+    margin-top: 200px;
+}
+    
+.d_info2 {
+    
+    align-content:flex-start;
+}
+
+.d_info3 {
+    
+    align-content: flex-end;
+}
